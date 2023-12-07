@@ -18,6 +18,8 @@
 
 `Social support score`: Another significant measurement I take into account in the analysis. Social support is the national average of the binary responses (0=no, 1=yes) to the Gallup World Poll (GWP) question “If you were in trouble, do you have relatives or friends you can count on to help you whenever you need them, or not?”
 
+The aim of this dashboard is **to compare how GDP per capita and the level of social support defined the level of happiness of a country in 2021.**
+
 - Data source: [Kaggle](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021/)
 - Further information on the dataset: [World Happiness Report](https://worldhappiness.report/ed/2023/world-happiness-trust-and-social-connections-in-times-of-crisis/)
 
